@@ -39,7 +39,3 @@ p.sendlineafter("best:", payload)
 
 p.interactive()
 ```
-
-## flag
-
-`CTF{debugger_1s_so_p0werful_1n_dyn4m1c_4n4lySis!}`
