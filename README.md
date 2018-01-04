@@ -2,6 +2,8 @@
 
 For Linux binary Exploitation
 
+Original repository is [here](https://github.com/scwuaptx/HITCON-Training).
+
 ## Solve by SHGroup
 
 Solving HITCON Training by SHGroup.
