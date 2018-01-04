@@ -1,5 +1,11 @@
 # HITCON-Training
+
 For Linux binary Exploitation
+
+## Solve by SHGroup
+
+Solving HITCON Training by SHGroup.
+
 
 ## Environment Setup
 
